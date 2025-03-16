@@ -1,13 +1,17 @@
-# ProgHub 2.0 - Технический справочник для IT-специалистов
-
-![ProgHub 2.0 Banner](https://via.placeholder.com/1200x300/3498db/ffffff?text=ProgHub+2.0+-+%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9+%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA)
+```markdown:project/README.md
+<div align="center">
+  <div style="background: linear-gradient(90deg, #1a237e, #7b1fa2); padding: 40px; border-radius: 10px; margin: 20px 0; text-align: center;">
+    <h1 style="color: white; font-size: 48px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">ProgHub 2.0</h1>
+    <p style="color: white; font-size: 18px; margin-top: 10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Технический справочник для IT-специалистов</p>
+  </div>
+</div>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript
+```
 ## 📚 О проекте
 
 ProgHub 2.0 — это интерактивный справочник для системных администраторов, DevOps-инженеров и разработчиков. Проект предоставляет удобный доступ к часто используемым командам, инструментам и руководствам по различным технологиям.
