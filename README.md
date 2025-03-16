@@ -1,16 +1,14 @@
-```markdown:project/README.md
-<div align="center">
-  <div style="background: linear-gradient(90deg, #1a237e, #7b1fa2); padding: 40px; border-radius: 10px; margin: 20px 0; text-align: center;">
-    <h1 style="color: white; font-size: 48px; margin: 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">ProgHub 2.0</h1>
-    <p style="color: white; font-size: 18px; margin-top: 10px; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Технический справочник для IT-специалистов</p>
-  </div>
-</div>
+```
+ _____                _   _       _     
+|  __ \              | | | |     | |    
+| |__) | __ ___   ___| |_| |_   _| |__  
+|  ___/ '__/ _ \ / __| __| | | | | '_ \ 
+| |   | | | (_) | (_| |_| | |_| | |_) |
+|_|   |_|  \___/ \__, |\__|_|\__,_|_.__/ 
+                  __/ |                 
+                 |___/                  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)](https://www.docker.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Технический справочник для IT-специалистов
 ```
 ## 📚 О проекте
 
