@@ -29,14 +29,11 @@ ProgHub 2.0 — это интерактивный справочник для с
 ### Запуск с помощью Docker
 
 ```bash
-# Клонирование репозитория
 git clone https://github.com/egor007pro/proghub.git
 cd proghub2.0
 
-# Сборка Docker-образа
 docker build -t proghub-site .
 
-# Запуск контейнера (замените 8080 на желаемый порт)
 docker run -d -p 8080:80 --name proghub proghub-site
 ```
 
